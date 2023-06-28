@@ -1,4 +1,5 @@
 <div align="center">
   
-![image](https://github.com/doesnots/nodeJS-basics/assets/59131714/985be372-76b9-44a4-98bd-a6f7de5c9a6c)
+![pngwing com](https://github.com/kamalika0363/nodeJS-basics/assets/59131714/b14098a8-dd39-463b-ae6c-3b99326fd81b)
 </div>
+
